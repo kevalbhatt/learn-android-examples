@@ -9,7 +9,7 @@ import android.database.sqlite.SQLiteDatabase;
 
 
 public class LoginDataBaseAdapter {
-
+	//login
 	static final String DATABASE_NAME = "login.db";
 	static final int DATABASE_VERSION = 1;
 	public static final int NAME_COLUMN = 4;
