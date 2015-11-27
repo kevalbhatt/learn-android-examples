@@ -1,6 +1,6 @@
-# android-beginners-examples
+#Learn Android Examples
 
-# Content
+# Basic app for beginner
 
 * Browser
 * Bot chatting
